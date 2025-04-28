@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'thunderhouse-pro';
+					src: url('/wp-content/uploads/useanyfont/8179Thunderhouse-Pro.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/8179Thunderhouse-Pro.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.thunderhouse-pro{font-family: 'thunderhouse-pro' !important;}
+
+		

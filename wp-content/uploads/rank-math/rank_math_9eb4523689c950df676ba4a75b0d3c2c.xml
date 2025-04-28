@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//cervejariasuburbana.com.br/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://cervejariasuburbana.com.br/</loc>
+		<lastmod>2023-06-07T12:49:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cervejariasuburbana.com.br/wp-content/uploads/2023/05/LOGO.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cervejariasuburbana.com.br/wp-content/uploads/2023/05/50l-300x223.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cervejariasuburbana.com.br/wp-content/uploads/2023/05/30l-300x223.webp</image:loc>
+		</image:image>
+	</url>
+</urlset>
