@@ -1,0 +1,14 @@
+wp-config.php
+.htaccess
+.wp-cli/cache/plugin/all-in-one-wp-migration-7.87.zip
+.wp-cli/cache/plugin/all-in-one-wp-migration-7.90.zip
+.wp-cli/cache/plugin/elementor-3.24.0.zip
+.wp-cli/cache/plugin/elementor-3.24.6.zip
+.wp-cli/cache/plugin/elementor-3.25.10.zip
+.wp-cli/cache/plugin/elementor-3.27.6.zip
+.wp-cli/cache/plugin/litespeed-cache-6.5.0.1.zip
+.wp-cli/cache/plugin/litespeed-cache-6.5.1.zip
+.wp-cli/cache/plugin/litespeed-cache-6.5.2.zip
+.wp-cli/cache/plugin/seo-by-rank-math-1.0.229.zip
+.wp-cli/cache/plugin/seo-by-rank-math-1.0.232.zip
+.wp-cli/cache/plugin/seo-by-rank-math-1.0.238.zip
